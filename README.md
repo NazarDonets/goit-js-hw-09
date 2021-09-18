@@ -1,2 +1,2 @@
-# goit-js-hw-09
-js bundler - parcel
+# built with parcel & gh-pages
+Live page URL: https://nazardonets.github.io/goit-js-hw-09/
