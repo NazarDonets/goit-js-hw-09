@@ -1,0 +1,25 @@
+{
+	"name": "goit-js-hw-09",
+	"version": "1.0.0",
+	"description": "goit homework 9 - parcel",
+	"main": "index.js",
+	"scripts": {
+		"dev": "parcel ./src/index.html",
+		"build": "parcel build ./src/index.html --public-url /goit-js-hw-09/",
+		"deploy": "gh-pages -d dist"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/NazarDonets/goit-js-hw-09.git"
+	},
+	"author": "Nazar Donets",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/NazarDonets/goit-js-hw-09/issues"
+	},
+	"homepage": "https://NazarDonets/github.com/goit-js-hw-09",
+	"devDependencies": {
+		"gh-pages": "^3.2.3",
+		"parcel-bundler": "^1.12.5"
+	}
+}
